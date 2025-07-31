@@ -163,4 +163,5 @@ This comprehensive productivity tracking system represents a significant advance
 
 
 ## outout:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eb5aa514-f022-47a0-9b9c-0029b09481f6" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/52bbc3e5-56e1-439e-aebe-16fd046e1aba" />
 
