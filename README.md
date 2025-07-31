@@ -162,4 +162,5 @@ The system could evolve to incorporate broader digital wellness metrics, includi
 This comprehensive productivity tracking system represents a significant advancement in digital wellness tools, combining sophisticated analytics with elegant design to help users develop healthier, more intentional relationships with technology while maximizing their productive potential.
 
 
-## outout:
+## outout:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eb5aa514-f022-47a0-9b9c-0029b09481f6" />
+
